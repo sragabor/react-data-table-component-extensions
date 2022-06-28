@@ -1,5 +1,5 @@
 {
-  "name": "react-data-table-component-extensions",
+  "name": "@sragabor/react-data-table-component-extensions",
   "version": "1.5.2",
   "description": "Export table data as a CSV or Excel file, filter and print the data.",
   "main": "dist/index.js",
@@ -36,11 +36,7 @@
     "datatable",
     "extensions"
   ],
-  "author": {
-    "name": "Barış Ateş",
-    "email": "info@barisates.com",
-    "url": "http://barisates.com"
-  },
+  "author": "Barış Ateş <info@barisates.com> (http://barisates.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/barisates/react-data-table-component-extensions/issues"
@@ -75,6 +71,6 @@
     "jest": "^24.9.0"
   },
   "dependencies": {
-    "react": "^16.9.0"
+    "react": "^17.0.2"
   }
 }
